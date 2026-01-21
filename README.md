@@ -1,2 +1,56 @@
-# Better-Furances-and-Chests
-not yet
+# 🔥 Better Furnaces & Chests
+
+Upgrade your survival experience with **Better Furnaces & Chests**! This mod introduces tiered storage and smelting solutions, allowing you to scale your production and organization as you progress through your world.
+
+[![CurseForge](https://img.shields.io/badge/CurseForge-VIEW-3f0f0f?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/better-furnaces-and-chests)[![Modrinth](https://img.shields.io/badge/Modrinth-VIEW-3f0f0f?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/better-furnaces-and-chests)
+
+[![Discord](https://img.shields.io/badge/Discord-JOIN-3f0f0f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dKC8JXaw) [![Ko-fi](https://img.shields.io/badge/Ko--fi-SUPPORT-3f0f0f?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/bobotweaks)[![Fiverr](https://img.shields.io/badge/Fiverr-HIRE%20ME-3f0f0f?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/bobotweaks)
+
+
+---
+
+## 📦 Features
+
+### Tiered Chests
+High-capacity storage in a single block space. Features a modern, scrollable grid GUI.
+- **Iron:** 45 Slots
+- **Gold:** 63 Slots
+- **Diamond:** 81 Slots
+- **Netherite:** 99 Slots
+
+### Tiered Furnaces
+Smelt items significantly faster while saving fuel.
+- **Copper:** 1.25x Speed
+- **Iron:** 2.00x Speed
+- **Gold:** 3.00x Speed
+- **Diamond:** 4.00x Speed
+- **Netherite:** 8.00x Speed
+
+### Upgrade Kits
+Upgrade your existing machines without breaking them or losing items.
+- **Instant Upgrade:** Right-click a chest/furnace with the corresponding kit.
+- **Persistence:** Items, orientations, and custom names are fully preserved.
+
+### Inventory Management Tools
+The chest GUI includes built-in tools for efficiency:
+- 🔼 **Sort:** Organize by name/count.
+- 📦 **Stack:** Merge scattered items.
+- 📥 **Transfer:** Quick-move inventory to chest.
+- 📤 **Take:** Quick-empty chest to inventory.
+- 🔍 **Search:** Real-time item filtering (hides titles for focus).
+
+### Double Chest Support
+- Same-tier chests merge into a **Double Chest**.
+- Features 144+ slots accessible in a single view.
+- Synchronized animations and sound.
+- Custom names synchronize automatically across both halves.
+
+---
+
+## ⚙️ Configuration
+The mod is highly customizable via `config/better-furnaces-and-chests.cfg`. You can adjust:
+- Rows per chest tier.
+- Speed per furnace tier.
+- Block hardness and tool requirements.
+
+**Made with ❤️ by BoboTweaks.**
