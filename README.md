@@ -4,7 +4,7 @@ Upgrade your survival experience with **Better Furnaces & Chests**! This mod int
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-VIEW-3f0f0f?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/better-furnaces-and-chests) [![Modrinth](https://img.shields.io/badge/Modrinth-VIEW-3f0f0f?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/better-furnaces-and-chests)
 
-[![Discord](https://img.shields.io/badge/Discord-JOIN-3f0f0f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dKC8JXaw) [![Ko-fi](https://img.shields.io/badge/Ko--fi-SUPPORT-3f0f0f?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/bobotweaks) [![Fiverr](https://img.shields.io/badge/Fiverr-HIRE%20ME-3f0f0f?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/bobotweaks)
+[![Discord](https://img.shields.io/badge/Discord-JOIN-3f0f0f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dKC8JXaw) [![Ko-fi](https://img.shields.io/badge/Ko--fi-SUPPORT-3f0f0f?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/bobotweaks) [![Fiverr](https://img.shields.io/badge/Fiverr-HIRE%20ME-3f0f0f?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/1qZlPl6)
 
 
 ---
