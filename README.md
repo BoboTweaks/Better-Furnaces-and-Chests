@@ -6,9 +6,6 @@ Upgrade your survival experience with **Better Furnaces & Chests**! This mod int
 
 [![Discord](https://img.shields.io/badge/Discord-JOIN-3f0f0f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dKC8JXaw) [![Ko-fi](https://img.shields.io/badge/Ko--fi-SUPPORT-3f0f0f?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/bobotweaks) [![Fiverr](https://img.shields.io/badge/Fiverr-HIRE%20ME-3f0f0f?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/1qZlPl6)
 
-[![Video Thumbnail](https://img.youtube.com/vi/iAAHz89HaEw/0.jpg)]([https://www.youtube.com](https://www.youtube.com/watch?v=iAAHz89HaEw))
-
-
 ---
 
 ## 📦 Features
