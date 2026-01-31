@@ -47,9 +47,16 @@ The chest GUI includes built-in tools for efficiency:
 ---
 
 ## ⚙️ Configuration
-The mod is highly customizable via `config/better-furnaces-and-chests.cfg`. You can adjust:
-- Rows per chest tier.
-- Speed per furnace tier.
-- Block hardness and tool requirements.
+### v1.1.0
+The mod is highly customizable via `config/better-furnaces-and-chests.cfg`.
+
+### v1.2.0+ (Server-Side Authority)
+In version 1.2.0, gameplay settings have moved to the **Server Config** to ensure consistency in multiplayer. You can now find the file at:
+`serverconfig/better-furnaces-and-chests-server.cfg`
+
+**New Customization Options:**
+- **Items Consumed:** Set how many items are taken from the input for "batch smelting".
+- **Output Multiplier:** Configure bonus outputs per smelting operation.
+- **Synced Networking:** Server settings are automatically synced to clients upon joining.
 
 **Made with ❤️ by BoboTweaks.**
