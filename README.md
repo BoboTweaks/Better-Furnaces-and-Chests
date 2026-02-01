@@ -43,6 +43,23 @@ The chest GUI includes built-in tools for efficiency:
 - Features 144+ slots accessible in a single view.
 - Synchronized animations and sound.
 - Custom names synchronize automatically across both halves.
+- **Double Chest Filtering:** v1.3.0+ fixed a bug where only one half followed filter rules; now both halves sync perfectly.
+
+---
+
+## 🛡️ Advanced Filtering (v1.3.0+)
+Take full control of your automation with the new **Filtering System** (Gold, Diamond, and Netherite tiers).
+
+- **Input & Output Modes:** Define exactly what hoppers can put in or take out.
+- **3x3 Ghost Slots:** Use existing items to set filters without losing them.
+- **Smart Uniqueness:** Automatically prevents duplicate filter entries.
+
+---
+
+## 🌍 Global Support
+Now supports **20 languages** with fully localized tooltips and UI components:
+- **Major regions:** Chinese, Japanese, Korean, Russian, Arabic, Spanish, French, German, and more.
+- **Dynamic Tooltips:** Upgrade kits now change descriptions based on their tier in your language.
 
 ---
 
